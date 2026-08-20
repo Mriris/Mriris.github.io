@@ -8,14 +8,14 @@ export const zh: Profile = {
   meta: {
     title: '燕庭轩 · 具身智能体的可验证任务执行',
     description:
-      '燕庭轩，西北工业大学人工智能工程硕士。研究具身智能体的可验证任务执行、大模型任务规划、可验证奖励强化学习与多模态遥感理解。',
+      '燕庭轩，西北工业大学人工智能工学硕士。研究具身智能体的可验证任务执行、大模型任务规划、可验证奖励强化学习与多模态遥感理解。',
     htmlLang: 'zh-CN',
   },
 
   hero: {
     name: '燕庭轩',
     latinName: 'TINGXUAN YAN',
-    affiliation: '西北工业大学 · 人工智能 · 工程硕士',
+    affiliation: '西北工业大学 · 人工智能 · 工学硕士',
     period: '2025.09 — 2028.03',
     statement: ['让智能体的每一步', '都可验证'],
     tagline:
@@ -184,7 +184,7 @@ export const zh: Profile = {
       {
         id: 'npu',
         school: '西北工业大学',
-        degree: '人工智能 · 工程硕士',
+        degree: '人工智能 · 工学硕士',
         period: '2025.09 — 2028.03',
         notes: ['预计毕业'],
       },
@@ -209,7 +209,7 @@ export const zh: Profile = {
   footer: {
     emailLabel: '邮箱',
     githubLabel: 'GitHub',
-    note: '完整简历可邮件索取。',
+    note: '',
     copyright: '燕庭轩',
   },
 
