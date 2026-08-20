@@ -33,6 +33,9 @@ jobs:
         env:
           NEXT_OUTPUT: export
 
+      - name: Add .nojekyll file
+        run: touch out/.nojekyll
+
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
