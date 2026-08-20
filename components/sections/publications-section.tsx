@@ -48,7 +48,6 @@ export function PublicationsSection({ profile }: { profile: Profile }) {
                     transition={{
                       duration: 2.5,
                       repeat: Infinity,
-                      ease: "easeInOut",
                     }}
                     className="h-3 w-3 rounded-full bg-pink-500 shadow-lg shadow-pink-500/50"
                   />
